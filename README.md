@@ -23,6 +23,31 @@ _Entendo o que é **git**, aprendendo sobbre **repositórios**, trabalhando com 
 
 
 >Este é um blockquote para destacar uma área
+
+Comando para instalar:
+```
+npm install
+```
+Exemplo uso Script:
+```js
+function showName(name){
+  return "bem vindo:" + name;
+}
+```
+Exemplo uso HTML:
+```html
+<h1>
+Título
+</h1>
+```
+Exemplo uso CSS:
+```css
+.titulo{
+  background-color:#FFF;
+  color: #FF0000;
+  }
+```
+
 # Titulo <h1>
 ## Titulo <h2>
 ### Titulo <h3>
