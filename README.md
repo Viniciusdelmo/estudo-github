@@ -1,8 +1,8 @@
 # Bem vindo ao estudo sobre Git e Github.
-Nesse estudo você vai dominar todo o git e github do zero ao profissional.
+Nesse estudo você vai dominar todo o **git** e github _do zero ao profissional._
 
 ## Módulos:
-Entendo o que é git, aprendendo sobbre repositórios, trabalhando com branches
+_Entendo o que é **git**, aprendendo sobbre **repositórios**, trabalhando com **branches**_
 
 # Titulo <h1>
 ## Titulo <h2>
