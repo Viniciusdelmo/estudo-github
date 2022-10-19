@@ -8,7 +8,7 @@ Nesse estudo você vai dominar todo o **git** e github _do zero ao profissional.
 _Entendo o que é **git**, aprendendo sobbre **repositórios**, trabalhando com **branches**_
 
 ### Rede social
-[Youtube](www.youtube.com)
+[Youtube](https://www.youtube.com/)
 
 # Titulo <h1>
 ## Titulo <h2>
