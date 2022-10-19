@@ -12,6 +12,10 @@ _Entendo o que é **git**, aprendendo sobbre **repositórios**, trabalhando com 
 * Item 2
 * Item 3
 
+1. Iniciando
+2. Executando
+3. Finalizando
+
 ### Rede social
 [Youtube](https://www.youtube.com/)
 
