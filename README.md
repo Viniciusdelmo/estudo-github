@@ -52,6 +52,12 @@ Exemplo uso CSS:
   }
 ```
 
+Propriedade | Descrição
+----------- | ---------
+name | informar nome do usuário
+size | definir tamanho do campo
+background | definir cor de fundo
+
 # Titulo <h1>
 ## Titulo <h2>
 ### Titulo <h3>
