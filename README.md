@@ -1,5 +1,9 @@
 ![Logo do Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
+[Bem vindo](#bem-vindo-ao-estudo-sobre-git-e-github) |
+[Modulos](#módulos) |
+[Rede Social](#rede-social)
+
 
 # Bem vindo ao estudo sobre Git e Github.
 Nesse estudo você vai dominar todo o **git** e github _do zero ao profissional._
@@ -54,7 +58,7 @@ Exemplo uso CSS:
 
 Propriedade | Descrição
 ----------- | ---------
-name | informar nome do usuário
+name | informar **nome** do usuário
 size | definir tamanho do campo
 background | definir cor de fundo
 
