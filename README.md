@@ -4,6 +4,10 @@
 # Bem vindo ao estudo sobre Git e Github.
 Nesse estudo você vai dominar todo o **git** e github _do zero ao profissional._
 
+**Últimas autualizações**
+- [x] Site Responsivo
+- [ ] Login com Facebook
+
 ## Módulos:
 _Entendo o que é **git**, aprendendo sobbre **repositórios**, trabalhando com **branches**_
 
