@@ -7,6 +7,11 @@ Nesse estudo você vai dominar todo o **git** e github _do zero ao profissional.
 ## Módulos:
 _Entendo o que é **git**, aprendendo sobbre **repositórios**, trabalhando com **branches**_
 
+## Listas:
+* Item 1
+* Item 2
+* Item 3
+
 ### Rede social
 [Youtube](https://www.youtube.com/)
 
