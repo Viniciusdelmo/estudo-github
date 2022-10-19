@@ -13,6 +13,8 @@ _Entendo o que é **git**, aprendendo sobbre **repositórios**, trabalhando com 
 * Item 3
 
 1. Iniciando
+    1. Como iniciar?
+    2. Por onde iniciar?
 2. Executando
 3. Finalizando
 
